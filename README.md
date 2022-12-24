@@ -17,4 +17,4 @@ Following steps are performed in this tutorial.
 5. Run the Script
 
 
-Read detailed article at URL: 
+Read detailed article at URL: https://programmerblog.net/send-email-using-python/
